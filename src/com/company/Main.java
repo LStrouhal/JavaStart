@@ -14,6 +14,8 @@ public class Main {
     System.out.println("Just writing a bit more code.");
 
     System.out.println("Even more changes");
+	    
+    System.out.println("This is change3");
     }
 }
 
