@@ -12,6 +12,8 @@ public class Main {
     System.out.println("The sum of " + var1 + " and " + var2 + " is " + sum1);
 
     System.out.println("Just writing a bit more code.");
+
+    System.out.println("Even more changes");
     }
 }
 
